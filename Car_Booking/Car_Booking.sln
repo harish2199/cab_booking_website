@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User_page", "User_page\User_page.csproj", "{30B3B8B7-32F8-47AD-8C53-2FB0303ABCE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Driver_page", "Driver_page\Driver_page.csproj", "{154F3E56-1314-4B6B-AB84-7468724E1916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B3B8B7-32F8-47AD-8C53-2FB0303ABCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B3B8B7-32F8-47AD-8C53-2FB0303ABCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B3B8B7-32F8-47AD-8C53-2FB0303ABCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B3B8B7-32F8-47AD-8C53-2FB0303ABCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{154F3E56-1314-4B6B-AB84-7468724E1916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154F3E56-1314-4B6B-AB84-7468724E1916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154F3E56-1314-4B6B-AB84-7468724E1916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154F3E56-1314-4B6B-AB84-7468724E1916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D68E6558-91A1-4C00-90A5-030FBEE1136A}
+	EndGlobalSection
+EndGlobal
